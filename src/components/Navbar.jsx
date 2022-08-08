@@ -73,7 +73,7 @@ const ResponsiveAppBar = () => {
                 fontSize: "1.2rem",
               }}
             >
-              Askn Page
+              Emre EKEN Page
             </Button>
           </Box>
 

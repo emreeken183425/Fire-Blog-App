@@ -7,7 +7,7 @@ const Dashboard = () => {
   return (
     <div>
       <Typography
-        sx={{ fontFamily: "Girassol", textAlign: "center", color: "primary" }}
+        sx={{ fontFamily: "Girassol", textAlign: "center", color: "warning" }}
         variant="h2"
         noWrap
       >
